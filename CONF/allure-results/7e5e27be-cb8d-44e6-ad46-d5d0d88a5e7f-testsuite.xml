@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607926898716' stop='1607926942824'>
+    <name>Testing the Allocation Tool -- People Directory</name>
+    <title>Testing the Allocation Tool -- People Directory</title>
+    <test-cases>
+        <test-case start='1607926901106' status='passed' stop='1607926924617'>
+            <name>Adding Project to the Quant</name>
+            <title>Adding Project to the Quant</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1e009184-ae48-4958-99fe-003038b0f936-attachment.png' type='image/png' size='86183'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607926924618' status='passed' stop='1607926937626'>
+            <name>Checking the Resolution of the page for Filter Area </name>
+            <title>Checking the Resolution of the page for Filter Area </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a5ddc217-e8dc-42b0-b181-91434c314adf-attachment.png' type='image/png' size='85330'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607926937626' status='passed' stop='1607926942823'>
+            <name>Testing the People Directory--> profile page shall open in a new when clicked on QUAnt name</name>
+            <title>Testing the People Directory--> profile page shall open in a new when clicked on QUAnt name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8c446f21-88ae-4085-8379-827ac9904a4a-attachment.png' type='image/png' size='85330'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

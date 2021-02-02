@@ -1,0 +1,60 @@
+{
+  "uid" : "f59e1cbe8966ee8a",
+  "name" : "Disable State",
+  "fullName" : "Testing the Allocation Tool -- New Prospect.Disable State",
+  "historyId" : "b6cb057e55916089592904332f6a9ded",
+  "time" : {
+    "start" : 1607926879557,
+    "stop" : 1607926879812,
+    "duration" : 255
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f56afaf130904f5",
+      "name" : "Screenshot",
+      "source" : "f56afaf130904f5.png",
+      "type" : "image/png",
+      "size" : 69180
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : "Disable State"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f59e1cbe8966ee8a.json",
+  "parameterValues" : [ ]
+}

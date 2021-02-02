@@ -1,0 +1,195 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=87.0.4280.66)\n                  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Linux 5.4.0-53-generic x86_64)",
+      "children" : [ {
+        "name" : "Creating the Prospect using the Mandatory elements only",
+        "uid" : "389bb354e29d061c",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927210433,
+          "stop" : 1607927210488,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Testing the Prospect page--> Accordion should be clickable",
+        "uid" : "d6ced9947b0b6122",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927210649,
+          "stop" : 1607927212704,
+          "duration" : 2055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " Checking the project filter is editable",
+        "uid" : "434b5f069223cf9e",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927212755,
+          "stop" : 1607927212776,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " Checking the Status filter is clickable",
+        "uid" : "3f0163e1de7df6e9",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927212776,
+          "stop" : 1607927212811,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " Calculate number of values of Status Filter ",
+        "uid" : "fc85aef702861bbe",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927212811,
+          "stop" : 1607927212861,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " Checking the  Group filter is clickable",
+        "uid" : "45a93cb936640b65",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927212861,
+          "stop" : 1607927212899,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " Calculate number of values of group Filter ",
+        "uid" : "6197ba34e776da2",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927212900,
+          "stop" : 1607927212934,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " Checking the  hiring status is clickable",
+        "uid" : "64bb577c98c64dd4",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927212935,
+          "stop" : 1607927212981,
+          "duration" : 46
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " Checking the  hiring required is clickable",
+        "uid" : "45ae378893e2eeca",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927213028,
+          "stop" : 1607927213066,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " Calculate number of values of hiring status Filter ",
+        "uid" : "2ddd2b9e6014d11d",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927213066,
+          "stop" : 1607927213111,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Disable State",
+        "uid" : "f251a5e41ad2a1fc",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927213111,
+          "stop" : 1607927213145,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Hover Color Change",
+        "uid" : "7d52b8b56c67cdd",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927213145,
+          "stop" : 1607927213203,
+          "duration" : 58
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Clear Button Present or Not",
+        "uid" : "63b31c5e8b4d8a5f",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927213204,
+          "stop" : 1607927213239,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Clear Button is Clickable & only appears when filter criteria is applied",
+        "uid" : "5d8a638e33576932",
+        "parentUid" : "5e1180f096ff15e0d9196eb0fbd6c25f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607927213239,
+          "stop" : 1607927213279,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5e1180f096ff15e0d9196eb0fbd6c25f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

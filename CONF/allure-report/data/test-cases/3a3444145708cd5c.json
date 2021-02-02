@@ -1,0 +1,60 @@
+{
+  "uid" : "3a3444145708cd5c",
+  "name" : "Login as Saurabh",
+  "fullName" : "Login in Zepplin Test.Login as Saurabh",
+  "historyId" : "ca18b92ad074715fcecccf67dd4abd38",
+  "time" : {
+    "start" : 1607933179379,
+    "stop" : 1607933200354,
+    "duration" : 20975
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "75435d311c06247d",
+      "name" : "Screenshot",
+      "source" : "75435d311c06247d.png",
+      "type" : "image/png",
+      "size" : 51053
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login as Saurabh"
+  }, {
+    "name" : "package",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a3444145708cd5c.json",
+  "parameterValues" : [ ]
+}

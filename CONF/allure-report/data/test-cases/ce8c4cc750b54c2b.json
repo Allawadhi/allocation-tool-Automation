@@ -1,0 +1,105 @@
+{
+  "uid" : "ce8c4cc750b54c2b",
+  "name" : "Creating the Prospect using the Mandatory elements only With Team member",
+  "fullName" : "Testing the Allocation Tool -- New Prospect.Creating the Prospect using the Mandatory elements only With Team member",
+  "historyId" : "c2a309ee96c8f53dafabc54e5e4c52c7",
+  "time" : {
+    "start" : 1607931430778,
+    "stop" : 1607931455379,
+    "duration" : 24601
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3193a5154c41ae18",
+      "name" : "Screenshot",
+      "source" : "3193a5154c41ae18.png",
+      "type" : "image/png",
+      "size" : 59639
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : "Creating the Prospect using the Mandatory elements only With Team member"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b8f4537d87585a6f",
+      "status" : "failed",
+      "statusDetails" : "Failed: Error while waiting for Protractor to sync with the page: \"both angularJS testability and angular testability are undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details\"",
+      "time" : {
+        "start" : 1607931258221,
+        "stop" : 1607931258415,
+        "duration" : 194
+      }
+    }, {
+      "uid" : "f454c939c226969c",
+      "status" : "failed",
+      "statusDetails" : "Failed: Error while waiting for Protractor to sync with the page: \"both angularJS testability and angular testability are undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details\"",
+      "time" : {
+        "start" : 1607931241642,
+        "stop" : 1607931241830,
+        "duration" : 188
+      }
+    }, {
+      "uid" : "79faf65050663c69",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=87.0.4280.66)\n                  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Linux 5.4.0-53-generic x86_64)",
+      "time" : {
+        "start" : 1607927210488,
+        "stop" : 1607927210522,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "c5763f68bf9a4de4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607926808017,
+        "stop" : 1607926832425,
+        "duration" : 24408
+      }
+    }, {
+      "uid" : "55be35ecd543dcf3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607082907377,
+        "stop" : 1607082931890,
+        "duration" : 24513
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce8c4cc750b54c2b.json",
+  "parameterValues" : [ ]
+}

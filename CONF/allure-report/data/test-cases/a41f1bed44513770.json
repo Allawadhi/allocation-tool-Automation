@@ -1,0 +1,70 @@
+{
+  "uid" : "a41f1bed44513770",
+  "name" : "Testing the People Directory--> profile page shall open in a new when clicked on QUAnt name",
+  "fullName" : "Testing the Allocation Tool -- People Directory.Testing the People Directory--> profile page shall open in a new when clicked on QUAnt name",
+  "historyId" : "874a0cbd28962fcb9f1bc3bfc7213b29",
+  "time" : {
+    "start" : 1607926937626,
+    "stop" : 1607926942823,
+    "duration" : 5197
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "15ba6c3ddc488fc1",
+      "name" : "Screenshot",
+      "source" : "15ba6c3ddc488fc1.png",
+      "type" : "image/png",
+      "size" : 85330
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing the People Directory--> profile page shall open in a new when clicked on QUAnt name"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6c7b2cf9dee6b241",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607083061861,
+        "stop" : 1607083066938,
+        "duration" : 5077
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a41f1bed44513770.json",
+  "parameterValues" : [ ]
+}

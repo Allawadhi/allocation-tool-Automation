@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "commandline": "^0.0.2",
+    "cucumber": "^7.0.0-rc.0",
+    "express": "^4.17.1",
+    "global": "^4.4.0",
+    "install": "^0.13.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-reporters": "^2.3.2",
+    "jasmine2-protractor-utils": "^1.3.0",
+    "nodemailer": "^6.4.15",
+    "posttest": "^0.0.1",
+    "prompt": "^1.0.0",
+    "protractor-beautiful-reporter": "^1.3.6",
+    "protractor-cucumber-framework": "^6.2.1",
+    "protractor-html-reporter-2": "^1.0.4",
+    "protractor-jasmine2-html-reporter": "^0.0.7",
+    "protractor-video-reporter": "^0.3.0",
+    "winston": "^3.3.3",
+    "xlsx": "^0.16.8"
+  },
+  "scripts": {
+    "pretest": "rm -rf allure-report",
+    "test": "protractor conf.js",
+    "posttest": "allure generate allure-results --clean -o allure-report && allure open "
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.13.0"
+  },
+  "version": "1",
+  "description": "Allocation Tool",
+  "main": "index.js",
+  "license": "MIT"
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "7be5811885a6656c",
+  "name" : "Login as Saurabh",
+  "fullName" : "Login in Zepplin Test.Login as Saurabh",
+  "historyId" : "ca18b92ad074715fcecccf67dd4abd38",
+  "time" : {
+    "start" : 1607927121811,
+    "stop" : 1607927141949,
+    "duration" : 20138
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Sign in – Google accounts' to be 'Zepplin'.",
+  "statusTrace" : "Error: Failed expectation\n                    at /home/saurabh/Desktop/Saurabh/Way2Automation/Automation/test_spec/LoginTestsaurabh_spec.js:12:59\n                    at ManagedPromise.invokeCallback_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login as Saurabh"
+  }, {
+    "name" : "package",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7be5811885a6656c.json",
+  "parameterValues" : [ ]
+}

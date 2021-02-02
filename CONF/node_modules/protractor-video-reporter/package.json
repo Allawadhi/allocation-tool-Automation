@@ -1,0 +1,28 @@
+{
+  "name": "protractor-video-reporter",
+  "version": "0.3.0",
+  "description": "A jasmine2 reporter to capture a video screen cast of Protractor specs run with xvfb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tepez/protractor-video-reporter.git"
+  },
+  "author": "Tom Tepez Yam <tomyam1@gmail.com> (https://github.com/tepez)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tepez/protractor-video-reporter/issues"
+  },
+  "homepage": "https://github.com/tepez/protractor-video-reporter",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "joi": "^8.0.4",
+    "lodash": "^4.6.0",
+    "mkdirp": "^0.5.1",
+    "node-uuid": "^1.4.3",
+    "subtitles-parser": "0.0.2",
+    "sanitize-filename": "^1.6.1"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "d866183d9ac7f689",
+  "name" : " Checking the  Group filter is clickable",
+  "fullName" : "Testing the Allocation Tool -- New Prospect. Checking the  Group filter is clickable",
+  "historyId" : "6fb5911bd32471e92cea6d51f13f4f05",
+  "time" : {
+    "start" : 1607082979596,
+    "stop" : 1607082982032,
+    "duration" : 2436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c1568d789eb1c661",
+      "name" : "Screenshot",
+      "source" : "c1568d789eb1c661.png",
+      "type" : "image/png",
+      "size" : 69109
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : " Checking the  Group filter is clickable"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d866183d9ac7f689.json",
+  "parameterValues" : [ ]
+}

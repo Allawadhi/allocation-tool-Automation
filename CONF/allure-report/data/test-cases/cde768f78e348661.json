@@ -1,0 +1,60 @@
+{
+  "uid" : "cde768f78e348661",
+  "name" : "Clear Button is Clickable & only appears when filter criteria is applied",
+  "fullName" : "Testing the Allocation Tool -- New Prospect.Clear Button is Clickable & only appears when filter criteria is applied",
+  "historyId" : "34cdd4c9b9d17a08c0f91a81cfcc91aa",
+  "time" : {
+    "start" : 1607926894613,
+    "stop" : 1607926898690,
+    "duration" : 4077
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dbd4846abc53dc2d",
+      "name" : "Screenshot",
+      "source" : "dbd4846abc53dc2d.png",
+      "type" : "image/png",
+      "size" : 45728
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : "Clear Button is Clickable & only appears when filter criteria is applied"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cde768f78e348661.json",
+  "parameterValues" : [ ]
+}

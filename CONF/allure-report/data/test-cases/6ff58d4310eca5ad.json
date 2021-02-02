@@ -1,0 +1,60 @@
+{
+  "uid" : "6ff58d4310eca5ad",
+  "name" : " Calculate number of values of group Filter ",
+  "fullName" : "Testing the Allocation Tool -- New Prospect. Calculate number of values of group Filter ",
+  "historyId" : "c88585be6e5fd0923634feb11aa221ff",
+  "time" : {
+    "start" : 1607926858595,
+    "stop" : 1607926863545,
+    "duration" : 4950
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ec455e14b4581da3",
+      "name" : "Screenshot",
+      "source" : "ec455e14b4581da3.png",
+      "type" : "image/png",
+      "size" : 69180
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : " Calculate number of values of group Filter "
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ff58d4310eca5ad.json",
+  "parameterValues" : [ ]
+}

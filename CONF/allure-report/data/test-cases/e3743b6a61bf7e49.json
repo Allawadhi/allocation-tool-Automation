@@ -1,0 +1,46 @@
+{
+  "uid" : "e3743b6a61bf7e49",
+  "name" : "Login as Saurabh",
+  "fullName" : "Login in Zepplin Test.Login as Saurabh",
+  "historyId" : "ca18b92ad074715fcecccf67dd4abd38",
+  "time" : {
+    "start" : 1607929282290,
+    "stop" : 1607929301990,
+    "duration" : 19700
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "NoSuchSessionError: invalid session id",
+  "statusTrace" : "NoSuchSessionError: invalid session id\n                    at Object.throwDecodedError (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/error.js:514:15)\n                    at parseHttpResponse (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/http.js:519:13)\n                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/http.js:441:30\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                From: Task: WebDriver.takeScreenshot()\n                    at Driver.schedule (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n                    at Driver.takeScreenshot (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:1085:17)\n                    at run (/usr/local/share/.config/yarn/global/node_modules/protractor/built/browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as takeScreenshot] (/usr/local/share/.config/yarn/global/node_modules/protractor/built/browser.js:66:16)\n                    at UserContext.<anonymous> (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/CONF/cong.js:63:15)\n                    at attempt (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login as Saurabh"
+  }, {
+    "name" : "package",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3743b6a61bf7e49.json",
+  "parameterValues" : [ ]
+}

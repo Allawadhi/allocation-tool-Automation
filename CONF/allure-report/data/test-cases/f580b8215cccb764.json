@@ -1,0 +1,60 @@
+{
+  "uid" : "f580b8215cccb764",
+  "name" : "Testing the Prospect page--> Accordion should be clickable",
+  "fullName" : "Testing the Allocation Tool -- New Prospect.Testing the Prospect page--> Accordion should be clickable",
+  "historyId" : "2d68870df07d3cf8ccdc31032b81b34c",
+  "time" : {
+    "start" : 1607926832426,
+    "stop" : 1607926841130,
+    "duration" : 8704
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "28de62b775284e65",
+      "name" : "Screenshot",
+      "source" : "28de62b775284e65.png",
+      "type" : "image/png",
+      "size" : 67024
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing the Prospect page--> Accordion should be clickable"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f580b8215cccb764.json",
+  "parameterValues" : [ ]
+}

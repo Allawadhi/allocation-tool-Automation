@@ -1,0 +1,201 @@
+[ {
+  "uid" : "45a93cb936640b65",
+  "name" : " Checking the  Group filter is clickable",
+  "time" : {
+    "start" : 1607927212861,
+    "stop" : 1607927212899,
+    "duration" : 38
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ddd2b9e6014d11d",
+  "name" : " Calculate number of values of hiring status Filter ",
+  "time" : {
+    "start" : 1607927213066,
+    "stop" : 1607927213111,
+    "duration" : 45
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e3de5d20a863fd6",
+  "name" : "Adding Project to the Quant",
+  "time" : {
+    "start" : 1607926901106,
+    "stop" : 1607926924617,
+    "duration" : 23511
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "389bb354e29d061c",
+  "name" : "Creating the Prospect using the Mandatory elements only",
+  "time" : {
+    "start" : 1607927210433,
+    "stop" : 1607927210488,
+    "duration" : 55
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f251a5e41ad2a1fc",
+  "name" : "Disable State",
+  "time" : {
+    "start" : 1607927213111,
+    "stop" : 1607927213145,
+    "duration" : 34
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f0163e1de7df6e9",
+  "name" : " Checking the Status filter is clickable",
+  "time" : {
+    "start" : 1607927212776,
+    "stop" : 1607927212811,
+    "duration" : 35
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "64bb577c98c64dd4",
+  "name" : " Checking the  hiring status is clickable",
+  "time" : {
+    "start" : 1607927212935,
+    "stop" : 1607927212981,
+    "duration" : 46
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a48fb923620352b3",
+  "name" : "Login as Saurabh",
+  "time" : {
+    "start" : 1607942633808,
+    "stop" : 1607942658635,
+    "duration" : 24827
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3510335c0355b5",
+  "name" : "Creating the Prospect using the Mandatory elements only With multiple Team members",
+  "time" : {
+    "start" : 1607942732874,
+    "stop" : 1607942763567,
+    "duration" : 30693
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a41f1bed44513770",
+  "name" : "Testing the People Directory--> profile page shall open in a new when clicked on QUAnt name",
+  "time" : {
+    "start" : 1607926937626,
+    "stop" : 1607926942823,
+    "duration" : 5197
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce8c4cc750b54c2b",
+  "name" : "Creating the Prospect using the Mandatory elements only With Team member",
+  "time" : {
+    "start" : 1607931430778,
+    "stop" : 1607931455379,
+    "duration" : 24601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45ae378893e2eeca",
+  "name" : " Checking the  hiring required is clickable",
+  "time" : {
+    "start" : 1607927213028,
+    "stop" : 1607927213066,
+    "duration" : 38
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d8a638e33576932",
+  "name" : "Clear Button is Clickable & only appears when filter criteria is applied",
+  "time" : {
+    "start" : 1607927213239,
+    "stop" : 1607927213279,
+    "duration" : 40
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6197ba34e776da2",
+  "name" : " Calculate number of values of group Filter ",
+  "time" : {
+    "start" : 1607927212900,
+    "stop" : 1607927212934,
+    "duration" : 34
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "63b31c5e8b4d8a5f",
+  "name" : "Clear Button Present or Not",
+  "time" : {
+    "start" : 1607927213204,
+    "stop" : 1607927213239,
+    "duration" : 35
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc85aef702861bbe",
+  "name" : " Calculate number of values of Status Filter ",
+  "time" : {
+    "start" : 1607927212811,
+    "stop" : 1607927212861,
+    "duration" : 50
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6ced9947b0b6122",
+  "name" : "Testing the Prospect page--> Accordion should be clickable",
+  "time" : {
+    "start" : 1607927210649,
+    "stop" : 1607927212704,
+    "duration" : 2055
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb17cfc3971c6d8d",
+  "name" : "Checking the Resolution of the page for Filter Area ",
+  "time" : {
+    "start" : 1607926924618,
+    "stop" : 1607926937626,
+    "duration" : 13008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "434b5f069223cf9e",
+  "name" : " Checking the project filter is editable",
+  "time" : {
+    "start" : 1607927212755,
+    "stop" : 1607927212776,
+    "duration" : 21
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d52b8b56c67cdd",
+  "name" : "Hover Color Change",
+  "time" : {
+    "start" : 1607927213145,
+    "stop" : 1607927213203,
+    "duration" : 58
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,70 @@
+{
+  "uid" : "eb17cfc3971c6d8d",
+  "name" : "Checking the Resolution of the page for Filter Area ",
+  "fullName" : "Testing the Allocation Tool -- People Directory.Checking the Resolution of the page for Filter Area ",
+  "historyId" : "2b934a19a08ec2fa6b43e8c356f54c82",
+  "time" : {
+    "start" : 1607926924618,
+    "stop" : 1607926937626,
+    "duration" : 13008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6316768db1fb2163",
+      "name" : "Screenshot",
+      "source" : "6316768db1fb2163.png",
+      "type" : "image/png",
+      "size" : 85330
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checking the Resolution of the page for Filter Area "
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5494a9dd3f97ec4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607083048660,
+        "stop" : 1607083061861,
+        "duration" : 13201
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb17cfc3971c6d8d.json",
+  "parameterValues" : [ ]
+}

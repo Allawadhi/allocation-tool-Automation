@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607082966525' stop='1607083022708'>
+    <name>Testing the Allocation Tool -- New Prospect</name>
+    <title>Testing the Allocation Tool -- New Prospect</title>
+    <test-cases>
+        <test-case start='1607082971451' status='passed' stop='1607082974706'>
+            <name> Checking the project filter is editable</name>
+            <title> Checking the project filter is editable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6fab9ef7-4010-43d5-bf63-64700ae50553-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082974706' status='passed' stop='1607082977145'>
+            <name> Checking the Status filter is clickable</name>
+            <title> Checking the Status filter is clickable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2a4be6b1-3ae7-48ad-81fc-8f8f044c8de6-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082977145' status='passed' stop='1607082979596'>
+            <name> Calculate number of values of Status Filter </name>
+            <title> Calculate number of values of Status Filter </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e02e0fbe-b5e7-419c-889c-02e6cb1e1274-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082979596' status='passed' stop='1607082982032'>
+            <name> Checking the  Group filter is clickable</name>
+            <title> Checking the  Group filter is clickable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='78177876-2857-48df-a0b9-0b6526d1856e-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082982032' status='passed' stop='1607082986549'>
+            <name> Calculate number of values of group Filter </name>
+            <title> Calculate number of values of group Filter </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='755ff9bd-ecf3-42b5-a05f-e61e870a5f5c-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082986549' status='passed' stop='1607082989618'>
+            <name> Checking the  hiring status is clickable</name>
+            <title> Checking the  hiring status is clickable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2bb2fb6d-1734-47ef-b900-b7f93779f9c2-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082989618' status='passed' stop='1607082994182'>
+            <name> Calculate number of values of hiring status Filter </name>
+            <title> Calculate number of values of hiring status Filter </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ed6fb246-2527-4b24-868e-108738c81b1c-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082994182' status='passed' stop='1607082998808'>
+            <name> Checking the  hiring required is clickable</name>
+            <title> Checking the  hiring required is clickable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c751f702-3933-49c3-bfcc-7e42b7fc2f85-attachment.png' type='image/png' size='71214'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082998808' status='passed' stop='1607083003845'>
+            <name> Calculate number of values of hiring status Filter </name>
+            <title> Calculate number of values of hiring status Filter </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c71d532f-3e8d-4e06-919e-429149550f08-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607083003845' status='passed' stop='1607083004061'>
+            <name>Disable State</name>
+            <title>Disable State</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='916b70eb-d050-46a3-8244-07d55eea2ca9-attachment.png' type='image/png' size='69109'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607083004061' status='passed' stop='1607083011051'>
+            <name>Hover Color Change</name>
+            <title>Hover Color Change</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8e6a53d4-6e55-41c1-adc5-3af5b46c83f6-attachment.png' type='image/png' size='71252'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607083011052' status='passed' stop='1607083018647'>
+            <name>Clear Button Present or Not</name>
+            <title>Clear Button Present or Not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='17a1f7b3-6c26-4c73-9b54-87995ff25a3e-attachment.png' type='image/png' size='71214'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607083018647' status='passed' stop='1607083022704'>
+            <name>Clear Button is Clickable &amp; only appears when filter criteria is applied</name>
+            <title>Clear Button is Clickable &amp; only appears when filter criteria is applied</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e58e6270-bfc8-45c1-b12d-3d7162d5e57a-attachment.png' type='image/png' size='45484'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

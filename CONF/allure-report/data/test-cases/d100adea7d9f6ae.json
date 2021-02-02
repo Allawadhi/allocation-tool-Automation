@@ -1,0 +1,60 @@
+{
+  "uid" : "d100adea7d9f6ae",
+  "name" : "Adding Project to the Quant",
+  "fullName" : "Testing the Allocation Tool -- People Directory.Adding Project to the Quant",
+  "historyId" : "a96887bc2e225bba3eca8217602b0871",
+  "time" : {
+    "start" : 1607083025182,
+    "stop" : 1607083048660,
+    "duration" : 23478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dac956c4fba95bcb",
+      "name" : "Screenshot",
+      "source" : "dac956c4fba95bcb.png",
+      "type" : "image/png",
+      "size" : 86183
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding Project to the Quant"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- People Directory"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d100adea7d9f6ae.json",
+  "parameterValues" : [ ]
+}

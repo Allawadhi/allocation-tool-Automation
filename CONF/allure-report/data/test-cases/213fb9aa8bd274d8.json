@@ -1,0 +1,60 @@
+{
+  "uid" : "213fb9aa8bd274d8",
+  "name" : " Checking the  hiring status is clickable",
+  "fullName" : "Testing the Allocation Tool -- New Prospect. Checking the  hiring status is clickable",
+  "historyId" : "284236f2bfed08bc4b0bf761d3834ca6",
+  "time" : {
+    "start" : 1607082986549,
+    "stop" : 1607082989618,
+    "duration" : 3069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d806bf9f5692f9d4",
+      "name" : "Screenshot",
+      "source" : "d806bf9f5692f9d4.png",
+      "type" : "image/png",
+      "size" : 69109
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : " Checking the  hiring status is clickable"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "213fb9aa8bd274d8.json",
+  "parameterValues" : [ ]
+}

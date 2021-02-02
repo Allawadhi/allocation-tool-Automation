@@ -1,0 +1,60 @@
+{
+  "uid" : "d912b71956cf2932",
+  "name" : " Checking the project filter is editable",
+  "fullName" : "Testing the Allocation Tool -- New Prospect. Checking the project filter is editable",
+  "historyId" : "46ac42931518a4d50bb9c3d9f9a6a701",
+  "time" : {
+    "start" : 1607926845997,
+    "stop" : 1607926849292,
+    "duration" : 3295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fea2e4caf5a0b7c2",
+      "name" : "Screenshot",
+      "source" : "fea2e4caf5a0b7c2.png",
+      "type" : "image/png",
+      "size" : 69180
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : " Checking the project filter is editable"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d912b71956cf2932.json",
+  "parameterValues" : [ ]
+}

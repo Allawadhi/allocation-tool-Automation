@@ -1,0 +1,93 @@
+{
+  "uid" : "2ddd2b9e6014d11d",
+  "name" : " Calculate number of values of hiring status Filter ",
+  "fullName" : "Testing the Allocation Tool -- New Prospect. Calculate number of values of hiring status Filter ",
+  "historyId" : "5b1b37db89825a76bfa94e9352e94199",
+  "time" : {
+    "start" : 1607927213066,
+    "stop" : 1607927213111,
+    "duration" : 45
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=87.0.4280.66)\n                  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Linux 5.4.0-53-generic x86_64)",
+  "statusTrace" : "NoSuchWindowError: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=87.0.4280.66)\n                  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Linux 5.4.0-53-generic x86_64)\n                    at Object.checkLegacyResponse (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/error.js:546:15)\n                    at parseHttpResponse (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/http.js:509:13)\n                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/http.js:441:30\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                From: Task: WebDriver.findElements(By(xpath, //div [@class='sidenav-hamburger']))\n                    at Driver.schedule (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n                    at Driver.findElements (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:1048:19)\n                    at /usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:159:44\n                    at ManagedPromise.invokeCallback_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:2927:27\n                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:668:7Error\n                    at ElementArrayFinder.applyAction_ (/usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (/usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.<computed> [as click] (/usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:831:22)\n                    at click_submenu.clicksubmenu (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/pages/ClickSubmenuitem.js:5:57)\n                    at UserContext.<anonymous> (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/test_spec/Prospect_Module_spec.js:14:26)\n                    at /usr/local/share/.config/yarn/global/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/usr/local/share/.config/yarn/global/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                From: Task: Run beforeAll in control flow\n                    at UserContext.<anonymous> (/usr/local/share/.config/yarn/global/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at QueueRunner.execute (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)\n                    at queueRunnerFactory (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)\n                    at UserContext.fn (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5325:13)\n                    at attempt (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/test_spec/Prospect_Module_spec.js:13:5)\n                    at addSpecsToSuite (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/test_spec/Prospect_Module_spec.js:11:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n                    at Module.load (internal/modules/cjs/loader.js:928:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:769:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : " Calculate number of values of hiring status Filter "
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6fd2105bff9f3b74",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=87.0.4280.66)\n                  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Linux 5.4.0-53-generic x86_64)",
+      "time" : {
+        "start" : 1607927212981,
+        "stop" : 1607927213028,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "b2dde872638406d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607926874533,
+        "stop" : 1607926879557,
+        "duration" : 5024
+      }
+    }, {
+      "uid" : "bdffd2aaaf1249af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607926866364,
+        "stop" : 1607926871347,
+        "duration" : 4983
+      }
+    }, {
+      "uid" : "164ffe0cbaa391ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607082998808,
+        "stop" : 1607083003845,
+        "duration" : 5037
+      }
+    }, {
+      "uid" : "db2f6ddfd711e96c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607082989618,
+        "stop" : 1607082994182,
+        "duration" : 4564
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2ddd2b9e6014d11d.json",
+  "parameterValues" : [ ]
+}

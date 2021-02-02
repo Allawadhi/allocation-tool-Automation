@@ -1,0 +1,58 @@
+{
+    "PD":{
+    "ProjectFilter": "//input[@placeholder='Project']",
+
+    "Projectname":"Saur",
+
+    "StatusFilter": "//span [starts-with(text(),'Status') ]",
+
+    "StatusFiltercount":"// mat-option [@role= 'option']//span",
+
+    "GroupFilter":"//span [starts-with(text(),'Group') ]",
+
+    "GroupFiltercount":"// mat-option [@role= 'option']//span",
+
+    "HiringStatusFilter": "//span [starts-with(text(),'Hiring Status')]",
+
+    "HiringStatuscount":"// mat-option [@role= 'option']//span",
+
+    "HiringrequiredFilter": "//span [starts-with(text(),'Hiring Required')]",
+    
+    "Hiringrequiredcount":"// mat-option [@role= 'option']//span/span",
+
+    "SearchButton": "//button [@disabled]",
+
+    "SearchButtonText":"//button [starts-with(text(),'Search')]",
+
+    "HiringFilterNo":"//span [@class='mat-option-text']//span[contains (text(),'No')]", 
+
+    "ClearButton":"//button [starts-with(text(),'Clear')]"
+
+
+
+},
+
+    "NewProspectCreate":{
+        "AddProspectButton":"Add Prospect",
+        "ProjectName":"project",
+        "StatusName":"//label [text()='Status']/..", 
+        "StatusOnHold":"//span [starts-with(text(),'On Hold') ]", 
+        "StatusInProgress":"//span [starts-with(text(),'In Progress') ]", 
+        "StatusClosed":"//span [starts-with(text(),'Closed') ]",
+        "SaveButton":"Save", 
+        "AddTeamMember":"//span [starts-with(text(),'Add Team Member') ]",
+        "RoleTeamMember":"//label [starts-with(text(), 'Role')]//..//p-dropdown/div/label",
+        "RoleTeamMemberQA":"//span [starts-with(text(),'QA') ]",
+        "RoleTeamMemberPM":"//span [starts-with(text(),'PM') ]",
+        "RoleTeamMemberEngManager":"//span [starts-with(text(),'Eng. manager') ]",
+        "RoleTeamMemberBackendDeveloper":"//span [starts-with(text(),'Backend developer') ]",
+        "RoleTeamMemberDesigner":"//span [starts-with(text(),'Designer') ]",
+        "RoleTeamMemberFrontendDeveloper":"//span [starts-with(text(),'Frontend developer') ]",
+        "RoleTeamMemberLead":"//span [starts-with(text(),'Lead') ]",
+        "RoleTeamMemberHTMLDeveloper":"//span [starts-with(text(),'HTML Developer') ]",
+        "RoleTeamMemberFullStackDeveloper":"//span [starts-with(text(),'Full Stack Developer') ]",
+        "RoleTeamMemberMobile Developer":"//span [starts-with(text(),'Mobile Developer') ]"
+        
+        
+    }
+}

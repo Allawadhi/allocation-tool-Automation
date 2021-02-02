@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607930509121' stop='1607930516435'>
+    <name>Login in Zepplin Test</name>
+    <title>Login in Zepplin Test</title>
+    <test-cases>
+        <test-case start='1607930509122' status='failed' stop='1607930516431'>
+            <name>Login as Saurabh</name>
+            <title>Login as Saurabh</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='632cd948-2730-42a7-ae51-8c7b14688a36-attachment.png' type='image/png' size='35162'/>
+            </attachments>
+            <failure>
+                <message>Failed: Element &lt;input class="whsOnd zHQkBf" name="password" type="password"> is not reachable by keyboard</message>
+                <stack-trace>ElementNotInteractableError: Element &lt;input class="whsOnd zHQkBf" name="password" type="password"> is not reachable by keyboard
+                    at Object.throwDecodedError (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/error.js:514:15)
+                    at parseHttpResponse (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/http.js:519:13)
+                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/http.js:441:30
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: WebElement.sendKeys()
+                    at Driver.schedule (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:807:17)
+                    at WebElement.schedule_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:2010:25)
+                    at WebElement.sendKeys (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:2174:19)
+                    at actionFn (/usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:89:44)
+                    at Array.map (&lt;anonymous>)
+                    at /usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:461:65
+                    at ManagedPromise.invokeCallback_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:2927:27Error
+                    at ElementArrayFinder.applyAction_ (/usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:459:27)
+                    at ElementArrayFinder.&lt;computed> [as sendKeys] (/usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:91:29)
+                    at ElementFinder.&lt;computed> [as sendKeys] (/usr/local/share/.config/yarn/global/node_modules/protractor/built/element.js:831:22)
+                    at Loginin.loginasSaurabh (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/pages/login.js:13:62)
+                    at UserContext.&lt;anonymous> (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/test_spec/LoginTestsaurabh_spec.js:10:14)
+                    at /usr/local/share/.config/yarn/global/node_modules/jasminewd2/index.js:112:25
+                    at new ManagedPromise (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:1077:7)
+                    at ControlFlow.promise (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:2505:12)
+                    at schedulerExecute (/usr/local/share/.config/yarn/global/node_modules/jasminewd2/index.js:95:18)
+                    at TaskQueue.execute_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                From: Task: Run it("Login as Saurabh") in control flow
+                    at UserContext.&lt;anonymous> (/usr/local/share/.config/yarn/global/node_modules/jasminewd2/index.js:94:19)
+                    at attempt (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)
+                    at QueueRunner.run (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)
+                    at runNext (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)
+                    at /usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13
+                    at /usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9
+                    at /usr/local/share/.config/yarn/global/node_modules/jasminewd2/index.js:64:48
+                    at ControlFlow.emit (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/events.js:62:21)
+                    at ControlFlow.shutdown_ (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:2674:10)
+                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/test_spec/LoginTestsaurabh_spec.js:5:3)
+                    at addSpecsToSuite (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)
+                    at Env.describe (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)
+                    at describe (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/test_spec/LoginTestsaurabh_spec.js:4:1)
+                    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+                    at Module.load (internal/modules/cjs/loader.js:928:32)
+                    at Function.Module._load (internal/modules/cjs/loader.js:769:14)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

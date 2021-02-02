@@ -1,0 +1,60 @@
+{
+  "uid" : "53ec8df242a421d5",
+  "name" : "Hover Color Change",
+  "fullName" : "Testing the Allocation Tool -- New Prospect.Hover Color Change",
+  "historyId" : "d47a8876c9b6894274b0878f9534a399",
+  "time" : {
+    "start" : 1607926879812,
+    "stop" : 1607926886837,
+    "duration" : 7025
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e68cbfb6af9b88cb",
+      "name" : "Screenshot",
+      "source" : "e68cbfb6af9b88cb.png",
+      "type" : "image/png",
+      "size" : 71325
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hover Color Change"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53ec8df242a421d5.json",
+  "parameterValues" : [ ]
+}

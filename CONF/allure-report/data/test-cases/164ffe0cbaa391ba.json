@@ -1,0 +1,60 @@
+{
+  "uid" : "164ffe0cbaa391ba",
+  "name" : " Calculate number of values of hiring status Filter ",
+  "fullName" : "Testing the Allocation Tool -- New Prospect. Calculate number of values of hiring status Filter ",
+  "historyId" : "5b1b37db89825a76bfa94e9352e94199",
+  "time" : {
+    "start" : 1607082998808,
+    "stop" : 1607083003845,
+    "duration" : 5037
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "861e9b8f2c905485",
+      "name" : "Screenshot",
+      "source" : "861e9b8f2c905485.png",
+      "type" : "image/png",
+      "size" : 69109
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : " Calculate number of values of hiring status Filter "
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "164ffe0cbaa391ba.json",
+  "parameterValues" : [ ]
+}

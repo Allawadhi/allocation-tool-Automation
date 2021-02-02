@@ -1,0 +1,1279 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Login as Saurabh",
+    "uid" : "43265bf77b747ce2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927458311,
+      "stop" : 1607927466739,
+      "duration" : 8428
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  Group filter is clickable",
+    "uid" : "d866183d9ac7f689",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082979596,
+      "stop" : 1607082982032,
+      "duration" : 2436
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "3a3444145708cd5c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607933179379,
+      "stop" : 1607933200354,
+      "duration" : 20975
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of hiring status Filter ",
+    "uid" : "db2f6ddfd711e96c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082989618,
+      "stop" : 1607082994182,
+      "duration" : 4564
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "b9a668d4cb9bf1ce",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607930801295,
+      "stop" : 1607930825815,
+      "duration" : 24520
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of Status Filter ",
+    "uid" : "fc85aef702861bbe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927212811,
+      "stop" : 1607927212861,
+      "duration" : 50
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "49342551a690ee8b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927220015,
+      "stop" : 1607927239652,
+      "duration" : 19637
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "648bf1edf9bbcd07",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607930355582,
+      "stop" : 1607930371033,
+      "duration" : 15451
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "b08bf8620671e8b2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607929511484,
+      "stop" : 1607929530824,
+      "duration" : 19340
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of group Filter ",
+    "uid" : "6197ba34e776da2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927212900,
+      "stop" : 1607927212934,
+      "duration" : 34
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of Status Filter ",
+    "uid" : "e45ac7241e7f54d8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082977145,
+      "stop" : 1607082979596,
+      "duration" : 2451
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  Group filter is clickable",
+    "uid" : "45a93cb936640b65",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927212861,
+      "stop" : 1607927212899,
+      "duration" : 38
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Disable State",
+    "uid" : "123cdcf43392a8d2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607083003845,
+      "stop" : 1607083004061,
+      "duration" : 216
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "c88259c279ab5334",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607930359268,
+      "stop" : 1607930366548,
+      "duration" : 7280
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "a48fb923620352b3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607942633808,
+      "stop" : 1607942658635,
+      "duration" : 24827
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the Status filter is clickable",
+    "uid" : "3f0163e1de7df6e9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927212776,
+      "stop" : 1607927212811,
+      "duration" : 35
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only",
+    "uid" : "389bb354e29d061c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927210433,
+      "stop" : 1607927210488,
+      "duration" : 55
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "36112c2673d30a2a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607931545991,
+      "stop" : 1607931566747,
+      "duration" : 20756
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With Team member",
+    "uid" : "f454c939c226969c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607931241642,
+      "stop" : 1607931241830,
+      "duration" : 188
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the project filter is editable",
+    "uid" : "c20de0ac7d374ca8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082971451,
+      "stop" : 1607082974706,
+      "duration" : 3255
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Clear Button is Clickable & only appears when filter criteria is applied",
+    "uid" : "5d8a638e33576932",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927213239,
+      "stop" : 1607927213279,
+      "duration" : 40
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the project filter is editable",
+    "uid" : "d912b71956cf2932",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926845997,
+      "stop" : 1607926849292,
+      "duration" : 3295
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With multiple Team members",
+    "uid" : "50b85104dc155704",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927210522,
+      "stop" : 1607927210648,
+      "duration" : 126
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "a1e4b9cc79c9cd5a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607931123596,
+      "stop" : 1607931147727,
+      "duration" : 24131
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of hiring status Filter ",
+    "uid" : "2ddd2b9e6014d11d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927213066,
+      "stop" : 1607927213111,
+      "duration" : 45
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Clear Button Present or Not",
+    "uid" : "8420b0720b6038ad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607083011052,
+      "stop" : 1607083018647,
+      "duration" : 7595
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "76aa50016bfb720d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607928656099,
+      "stop" : 1607928664462,
+      "duration" : 8363
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With multiple Team members",
+    "uid" : "21082fbd291d26d5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082931890,
+      "stop" : 1607082957759,
+      "duration" : 25869
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "a9ce1a241be4a489",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607930440902,
+      "stop" : 1607930448165,
+      "duration" : 7263
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "45984d02eaef4e5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607931549492,
+      "stop" : 1607931573450,
+      "duration" : 23958
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Disable State",
+    "uid" : "f251a5e41ad2a1fc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927213111,
+      "stop" : 1607927213145,
+      "duration" : 34
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of group Filter ",
+    "uid" : "7ea172c6fed126a2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082982032,
+      "stop" : 1607082986549,
+      "duration" : 4517
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With Team member",
+    "uid" : "b8f4537d87585a6f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607931258221,
+      "stop" : 1607931258415,
+      "duration" : 194
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of hiring status Filter ",
+    "uid" : "164ffe0cbaa391ba",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082998808,
+      "stop" : 1607083003845,
+      "duration" : 5037
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Clear Button Present or Not",
+    "uid" : "8016771e77b89db1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926886837,
+      "stop" : 1607926894613,
+      "duration" : 7776
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of group Filter ",
+    "uid" : "6ff58d4310eca5ad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926858595,
+      "stop" : 1607926863545,
+      "duration" : 4950
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "6095c3166fbe90ee",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607941838007,
+      "stop" : 1607941862249,
+      "duration" : 24242
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Checking the Resolution of the page for Filter Area ",
+    "uid" : "5494a9dd3f97ec4c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607083048660,
+      "stop" : 1607083061861,
+      "duration" : 13201
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Clear Button Present or Not",
+    "uid" : "63b31c5e8b4d8a5f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927213204,
+      "stop" : 1607927213239,
+      "duration" : 35
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the Prospect page--> Accordion should be clickable",
+    "uid" : "92704829e6d0cae7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082957759,
+      "stop" : 1607082966515,
+      "duration" : 8756
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of hiring status Filter ",
+    "uid" : "6fd2105bff9f3b74",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927212981,
+      "stop" : 1607927213028,
+      "duration" : 47
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "2f368854334d8ccf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607929562428,
+      "stop" : 1607929582163,
+      "duration" : 19735
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "737e845113187e0c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927452953,
+      "stop" : 1607927473700,
+      "duration" : 20747
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Clear Button is Clickable & only appears when filter criteria is applied",
+    "uid" : "cde768f78e348661",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926894613,
+      "stop" : 1607926898690,
+      "duration" : 4077
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "66c90d3bd613a77f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607930654235,
+      "stop" : 1607930675455,
+      "duration" : 21220
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  Group filter is clickable",
+    "uid" : "562916cd9a17c683",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926855516,
+      "stop" : 1607926858594,
+      "duration" : 3078
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "becace0803ec30e1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927314852,
+      "stop" : 1607927335166,
+      "duration" : 20314
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With multiple Team members",
+    "uid" : "b179a9ed6e42e876",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607933285965,
+      "stop" : 1607933316361,
+      "duration" : 30396
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With multiple Team members",
+    "uid" : "c3510335c0355b5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607942732874,
+      "stop" : 1607942763567,
+      "duration" : 30693
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  hiring status is clickable",
+    "uid" : "ea1be1e9f5488298",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926863546,
+      "stop" : 1607926866363,
+      "duration" : 2817
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Hover Color Change",
+    "uid" : "53ec8df242a421d5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926879812,
+      "stop" : 1607926886837,
+      "duration" : 7025
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "13d5f30b574f9449",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607930657437,
+      "stop" : 1607930682042,
+      "duration" : 24605
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Disable State",
+    "uid" : "f59e1cbe8966ee8a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926879557,
+      "stop" : 1607926879812,
+      "duration" : 255
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Adding Project to the Quant",
+    "uid" : "d100adea7d9f6ae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607083025182,
+      "stop" : 1607083048660,
+      "duration" : 23478
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "7be5811885a6656c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927121811,
+      "stop" : 1607927141949,
+      "duration" : 20138
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "dfaff75e21a68304",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607930437177,
+      "stop" : 1607930456705,
+      "duration" : 19528
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the Prospect page--> Accordion should be clickable",
+    "uid" : "d6ced9947b0b6122",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927210649,
+      "stop" : 1607927212704,
+      "duration" : 2055
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "cfb030bf45a88139",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607929286258,
+      "stop" : 1607929293961,
+      "duration" : 7703
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "f7928378ed82175e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607931120030,
+      "stop" : 1607931140408,
+      "duration" : 20378
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With Team member",
+    "uid" : "ce8c4cc750b54c2b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607931430778,
+      "stop" : 1607931455379,
+      "duration" : 24601
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the Prospect page--> Accordion should be clickable",
+    "uid" : "f580b8215cccb764",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926832426,
+      "stop" : 1607926841130,
+      "duration" : 8704
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Hover Color Change",
+    "uid" : "7d52b8b56c67cdd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927213145,
+      "stop" : 1607927213203,
+      "duration" : 58
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  hiring required is clickable",
+    "uid" : "22deecd4628a0dab",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082994182,
+      "stop" : 1607082998808,
+      "duration" : 4626
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "49ea9f7fa4ce3c61",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607941834677,
+      "stop" : 1607941855448,
+      "duration" : 20771
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "1f1e2cc3170ac0e6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607942629892,
+      "stop" : 1607942650672,
+      "duration" : 20780
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the project filter is editable",
+    "uid" : "434b5f069223cf9e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927212755,
+      "stop" : 1607927212776,
+      "duration" : 21
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the Status filter is clickable",
+    "uid" : "1f681e1b0c51a9e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082974706,
+      "stop" : 1607082977145,
+      "duration" : 2439
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the Status filter is clickable",
+    "uid" : "4c84f90cdb5d5b79",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926849292,
+      "stop" : 1607926852241,
+      "duration" : 2949
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "77ae4ab95f380410",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927322037,
+      "stop" : 1607927331772,
+      "duration" : 9735
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "3b52b2b3139f717f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607930509122,
+      "stop" : 1607930516431,
+      "duration" : 7309
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  hiring status is clickable",
+    "uid" : "213fb9aa8bd274d8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082986549,
+      "stop" : 1607082989618,
+      "duration" : 3069
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "53c4cf74759dc83a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927356310,
+      "stop" : 1607927364888,
+      "duration" : 8578
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only",
+    "uid" : "3fe32023c0043b0e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926795098,
+      "stop" : 1607926808016,
+      "duration" : 12918
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "99bee8ec3f8ba800",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607930797328,
+      "stop" : 1607930818316,
+      "duration" : 20988
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  hiring status is clickable",
+    "uid" : "64bb577c98c64dd4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927212935,
+      "stop" : 1607927212981,
+      "duration" : 46
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  hiring required is clickable",
+    "uid" : "45ae378893e2eeca",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927213028,
+      "stop" : 1607927213066,
+      "duration" : 38
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Adding Project to the Quant",
+    "uid" : "2e3de5d20a863fd6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926901106,
+      "stop" : 1607926924617,
+      "duration" : 23511
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "dd8afa5bb94d6957",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607933183271,
+      "stop" : 1607933208120,
+      "duration" : 24849
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "d8516715cd00f136",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607928652516,
+      "stop" : 1607928671952,
+      "duration" : 19436
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "bca9ae0b788cd35a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927350717,
+      "stop" : 1607927371381,
+      "duration" : 20664
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of hiring status Filter ",
+    "uid" : "bdffd2aaaf1249af",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926866364,
+      "stop" : 1607926871347,
+      "duration" : 4983
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Checking the Resolution of the page for Filter Area ",
+    "uid" : "eb17cfc3971c6d8d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926924618,
+      "stop" : 1607926937626,
+      "duration" : 13008
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of Status Filter ",
+    "uid" : "c703ae57022d6d97",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926852242,
+      "stop" : 1607926855516,
+      "duration" : 3274
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "e12fbc2da72e6ac0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927164090,
+      "stop" : 1607927183378,
+      "duration" : 19288
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the People Directory--> profile page shall open in a new when clicked on QUAnt name",
+    "uid" : "a41f1bed44513770",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926937626,
+      "stop" : 1607926942823,
+      "duration" : 5197
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "e58439d581dc5e5e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927205613,
+      "stop" : 1607927210328,
+      "duration" : 4715
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Calculate number of values of hiring status Filter ",
+    "uid" : "b2dde872638406d0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926874533,
+      "stop" : 1607926879557,
+      "duration" : 5024
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only",
+    "uid" : "597ca87f4e2b04a9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082894311,
+      "stop" : 1607082907376,
+      "duration" : 13065
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With multiple Team members",
+    "uid" : "123ba3e3851173b1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607931508793,
+      "stop" : 1607931525556,
+      "duration" : 16763
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With Team member",
+    "uid" : "c5763f68bf9a4de4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926808017,
+      "stop" : 1607926832425,
+      "duration" : 24408
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "198100ccd925e905",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607930621534,
+      "stop" : 1607930645102,
+      "duration" : 23568
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Hover Color Change",
+    "uid" : "22a3ad89461e7108",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607083004061,
+      "stop" : 1607083011051,
+      "duration" : 6990
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Clear Button is Clickable & only appears when filter criteria is applied",
+    "uid" : "9868daf4e31bd831",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607083018647,
+      "stop" : 1607083022704,
+      "duration" : 4057
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login as Saurabh",
+    "uid" : "e3743b6a61bf7e49",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607929282290,
+      "stop" : 1607929301990,
+      "duration" : 19700
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With Team member",
+    "uid" : "55be35ecd543dcf3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607082907377,
+      "stop" : 1607082931890,
+      "duration" : 24513
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating the Prospect using the Mandatory elements only With Team member",
+    "uid" : "79faf65050663c69",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607927210488,
+      "stop" : 1607927210522,
+      "duration" : 34
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : " Checking the  hiring required is clickable",
+    "uid" : "ac067352c1de8eb0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607926871348,
+      "stop" : 1607926874533,
+      "duration" : 3185
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the People Directory--> profile page shall open in a new when clicked on QUAnt name",
+    "uid" : "6c7b2cf9dee6b241",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607083061861,
+      "stop" : 1607083066938,
+      "duration" : 5077
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

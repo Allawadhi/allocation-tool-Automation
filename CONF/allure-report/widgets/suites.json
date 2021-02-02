@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "ef9cb27fddda1a3706152f01cccd434a",
+    "name" : "Testing the Allocation Tool -- New Prospect",
+    "statistic" : {
+      "failed" : 14,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 16
+    }
+  }, {
+    "uid" : "cb2b26ac535b59067f14782b8d6933a6",
+    "name" : "Testing the Allocation Tool -- People Directory",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "c9bfc31bf4b684d16367352a0e121121",
+    "name" : "Login in Zepplin Test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

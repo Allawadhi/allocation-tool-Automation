@@ -1,0 +1,60 @@
+{
+  "uid" : "597ca87f4e2b04a9",
+  "name" : "Creating the Prospect using the Mandatory elements only",
+  "fullName" : "Testing the Allocation Tool -- New Prospect.Creating the Prospect using the Mandatory elements only",
+  "historyId" : "972ebda40da8c5c08794d2dba2495006",
+  "time" : {
+    "start" : 1607082894311,
+    "stop" : 1607082907376,
+    "duration" : 13065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7a266ace8888ee19",
+      "name" : "Screenshot",
+      "source" : "7a266ace8888ee19.png",
+      "type" : "image/png",
+      "size" : 71289
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : "Creating the Prospect using the Mandatory elements only"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "597ca87f4e2b04a9.json",
+  "parameterValues" : [ ]
+}

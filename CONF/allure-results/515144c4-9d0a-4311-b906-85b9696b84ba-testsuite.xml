@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607931397135' stop='1607931455382'>
+    <name>Testing the Allocation Tool -- New Prospect</name>
+    <title>Testing the Allocation Tool -- New Prospect</title>
+    <test-cases>
+        <test-case start='1607931430778' status='passed' stop='1607931455379'>
+            <name>Creating the Prospect using the Mandatory elements only With Team member</name>
+            <title>Creating the Prospect using the Mandatory elements only With Team member</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7c83afc9-06fe-41b6-ae97-55f577b3a026-attachment.png' type='image/png' size='59639'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

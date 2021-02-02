@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607926761341' stop='1607926841132'>
+    <name>Testing the Allocation Tool -- New Prospect</name>
+    <title>Testing the Allocation Tool -- New Prospect</title>
+    <test-cases>
+        <test-case start='1607926795098' status='passed' stop='1607926808016'>
+            <name>Creating the Prospect using the Mandatory elements only</name>
+            <title>Creating the Prospect using the Mandatory elements only</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3b2132d2-ee75-4d06-805f-d337ae5245ff-attachment.png' type='image/png' size='71228'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607926808017' status='passed' stop='1607926832425'>
+            <name>Creating the Prospect using the Mandatory elements only With Team member</name>
+            <title>Creating the Prospect using the Mandatory elements only With Team member</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='964e7651-f816-4e11-aae6-6e7544d46c3d-attachment.png' type='image/png' size='71287'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607926832426' status='passed' stop='1607926841130'>
+            <name>Testing the Prospect page--> Accordion should be clickable</name>
+            <title>Testing the Prospect page--> Accordion should be clickable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='633651a1-f3cd-4325-8433-d3877a1248f0-attachment.png' type='image/png' size='67024'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

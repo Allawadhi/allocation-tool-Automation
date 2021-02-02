@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607927350716' stop='1607927371386'>
+    <name>Login in Zepplin Test</name>
+    <title>Login in Zepplin Test</title>
+    <test-cases>
+        <test-case start='1607927350717' status='failed' stop='1607927371381'>
+            <name>Login as Saurabh</name>
+            <title>Login as Saurabh</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>NoSuchSessionError: invalid session id</message>
+                <stack-trace>NoSuchSessionError: invalid session id
+                    at Object.throwDecodedError (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/error.js:514:15)
+                    at parseHttpResponse (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/http.js:519:13)
+                    at /usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/http.js:441:30
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: WebDriver.takeScreenshot()
+                    at Driver.schedule (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:807:17)
+                    at Driver.takeScreenshot (/usr/local/share/.config/yarn/global/node_modules/selenium-webdriver/lib/webdriver.js:1085:17)
+                    at run (/usr/local/share/.config/yarn/global/node_modules/protractor/built/browser.js:58:33)
+                    at ProtractorBrowser.to.&lt;computed> [as takeScreenshot] (/usr/local/share/.config/yarn/global/node_modules/protractor/built/browser.js:66:16)
+                    at UserContext.&lt;anonymous> (/home/saurabh/Desktop/Saurabh/Way2Automation/Automation/CONF/cong.js:63:15)
+                    at attempt (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)
+                    at QueueRunner.run (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)
+                    at runNext (/usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)
+                    at /usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13
+                    at /usr/local/share/.config/yarn/global/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

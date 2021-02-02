@@ -1,0 +1,60 @@
+{
+  "uid" : "21082fbd291d26d5",
+  "name" : "Creating the Prospect using the Mandatory elements only With multiple Team members",
+  "fullName" : "Testing the Allocation Tool -- New Prospect.Creating the Prospect using the Mandatory elements only With multiple Team members",
+  "historyId" : "dcd6e03d55af9ddbf162eba718cbbf91",
+  "time" : {
+    "start" : 1607082931890,
+    "stop" : 1607082957759,
+    "duration" : 25869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "284e68bbff368bd9",
+      "name" : "Screenshot",
+      "source" : "284e68bbff368bd9.png",
+      "type" : "image/png",
+      "size" : 71214
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "testMethod",
+    "value" : "Creating the Prospect using the Mandatory elements only With multiple Team members"
+  }, {
+    "name" : "package",
+    "value" : "Testing the Allocation Tool -- New Prospect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21082fbd291d26d5.json",
+  "parameterValues" : [ ]
+}

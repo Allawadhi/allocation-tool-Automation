@@ -1,0 +1,362 @@
+{
+  "uid" : "a48fb923620352b3",
+  "name" : "Login as Saurabh",
+  "fullName" : "Login in Zepplin Test.Login as Saurabh",
+  "historyId" : "ca18b92ad074715fcecccf67dd4abd38",
+  "time" : {
+    "start" : 1607942633808,
+    "stop" : 1607942658635,
+    "duration" : 24827
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6525956bc223a31",
+      "name" : "Screenshot",
+      "source" : "6525956bc223a31.png",
+      "type" : "image/png",
+      "size" : 43342
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login as Saurabh"
+  }, {
+    "name" : "package",
+    "value" : "Login in Zepplin Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1f1e2cc3170ac0e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607942629892,
+        "stop" : 1607942650672,
+        "duration" : 20780
+      }
+    }, {
+      "uid" : "6095c3166fbe90ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607941838007,
+        "stop" : 1607941862249,
+        "duration" : 24242
+      }
+    }, {
+      "uid" : "49ea9f7fa4ce3c61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607941834677,
+        "stop" : 1607941855448,
+        "duration" : 20771
+      }
+    }, {
+      "uid" : "dd8afa5bb94d6957",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607933183271,
+        "stop" : 1607933208120,
+        "duration" : 24849
+      }
+    }, {
+      "uid" : "3a3444145708cd5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607933179379,
+        "stop" : 1607933200354,
+        "duration" : 20975
+      }
+    }, {
+      "uid" : "45984d02eaef4e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607931549492,
+        "stop" : 1607931573450,
+        "duration" : 23958
+      }
+    }, {
+      "uid" : "36112c2673d30a2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607931545991,
+        "stop" : 1607931566747,
+        "duration" : 20756
+      }
+    }, {
+      "uid" : "a1e4b9cc79c9cd5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607931123596,
+        "stop" : 1607931147727,
+        "duration" : 24131
+      }
+    }, {
+      "uid" : "f7928378ed82175e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607931120030,
+        "stop" : 1607931140408,
+        "duration" : 20378
+      }
+    }, {
+      "uid" : "b9a668d4cb9bf1ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607930801295,
+        "stop" : 1607930825815,
+        "duration" : 24520
+      }
+    }, {
+      "uid" : "99bee8ec3f8ba800",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607930797328,
+        "stop" : 1607930818316,
+        "duration" : 20988
+      }
+    }, {
+      "uid" : "13d5f30b574f9449",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607930657437,
+        "stop" : 1607930682042,
+        "duration" : 24605
+      }
+    }, {
+      "uid" : "66c90d3bd613a77f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607930654235,
+        "stop" : 1607930675455,
+        "duration" : 21220
+      }
+    }, {
+      "uid" : "198100ccd925e905",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607930621534,
+        "stop" : 1607930645102,
+        "duration" : 23568
+      }
+    }, {
+      "uid" : "3b52b2b3139f717f",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <input class=\"whsOnd zHQkBf\" name=\"password\" type=\"password\"> is not reachable by keyboard",
+      "time" : {
+        "start" : 1607930509122,
+        "stop" : 1607930516431,
+        "duration" : 7309
+      }
+    }, {
+      "uid" : "a9ce1a241be4a489",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <input class=\"whsOnd zHQkBf\" name=\"password\" type=\"password\"> is not reachable by keyboard",
+      "time" : {
+        "start" : 1607930440902,
+        "stop" : 1607930448165,
+        "duration" : 7263
+      }
+    }, {
+      "uid" : "dfaff75e21a68304",
+      "status" : "failed",
+      "statusDetails" : "WebDriverError: chrome not reachable\n                  (Session info: chrome=87.0.4280.66)\n                  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Linux 5.4.0-53-generic x86_64)",
+      "time" : {
+        "start" : 1607930437177,
+        "stop" : 1607930456705,
+        "duration" : 19528
+      }
+    }, {
+      "uid" : "c88259c279ab5334",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <input class=\"whsOnd zHQkBf\" name=\"password\" type=\"password\"> is not reachable by keyboard",
+      "time" : {
+        "start" : 1607930359268,
+        "stop" : 1607930366548,
+        "duration" : 7280
+      }
+    }, {
+      "uid" : "648bf1edf9bbcd07",
+      "status" : "failed",
+      "statusDetails" : "Failed: unknown error: cannot determine loading status\n                from disconnected: Unable to receive message from renderer\n                  (Session info: chrome=87.0.4280.66)\n                  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Linux 5.4.0-53-generic x86_64)",
+      "time" : {
+        "start" : 1607930355582,
+        "stop" : 1607930371033,
+        "duration" : 15451
+      }
+    }, {
+      "uid" : "2f368854334d8ccf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607929562428,
+        "stop" : 1607929582163,
+        "duration" : 19735
+      }
+    }, {
+      "uid" : "b08bf8620671e8b2",
+      "status" : "failed",
+      "statusDetails" : "NoSuchSessionError: invalid session id",
+      "time" : {
+        "start" : 1607929511484,
+        "stop" : 1607929530824,
+        "duration" : 19340
+      }
+    }, {
+      "uid" : "cfb030bf45a88139",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <input class=\"whsOnd zHQkBf\" name=\"password\" type=\"password\"> is not reachable by keyboard",
+      "time" : {
+        "start" : 1607929286258,
+        "stop" : 1607929293961,
+        "duration" : 7703
+      }
+    }, {
+      "uid" : "e3743b6a61bf7e49",
+      "status" : "failed",
+      "statusDetails" : "NoSuchSessionError: invalid session id",
+      "time" : {
+        "start" : 1607929282290,
+        "stop" : 1607929301990,
+        "duration" : 19700
+      }
+    }, {
+      "uid" : "76aa50016bfb720d",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <input class=\"whsOnd zHQkBf\" name=\"password\" type=\"password\"> is not reachable by keyboard",
+      "time" : {
+        "start" : 1607928656099,
+        "stop" : 1607928664462,
+        "duration" : 8363
+      }
+    }, {
+      "uid" : "d8516715cd00f136",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid session id",
+      "time" : {
+        "start" : 1607928652516,
+        "stop" : 1607928671952,
+        "duration" : 19436
+      }
+    }, {
+      "uid" : "43265bf77b747ce2",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <input class=\"whsOnd zHQkBf\" name=\"password\" type=\"password\"> is not reachable by keyboard",
+      "time" : {
+        "start" : 1607927458311,
+        "stop" : 1607927466739,
+        "duration" : 8428
+      }
+    }, {
+      "uid" : "737e845113187e0c",
+      "status" : "failed",
+      "statusDetails" : "NoSuchSessionError: invalid session id",
+      "time" : {
+        "start" : 1607927452953,
+        "stop" : 1607927473700,
+        "duration" : 20747
+      }
+    }, {
+      "uid" : "53c4cf74759dc83a",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <input class=\"whsOnd zHQkBf\" name=\"password\" type=\"password\"> is not reachable by keyboard",
+      "time" : {
+        "start" : 1607927356310,
+        "stop" : 1607927364888,
+        "duration" : 8578
+      }
+    }, {
+      "uid" : "bca9ae0b788cd35a",
+      "status" : "failed",
+      "statusDetails" : "NoSuchSessionError: invalid session id",
+      "time" : {
+        "start" : 1607927350717,
+        "stop" : 1607927371381,
+        "duration" : 20664
+      }
+    }, {
+      "uid" : "77ae4ab95f380410",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <input class=\"whsOnd zHQkBf\" name=\"password\" type=\"password\"> is not reachable by keyboard",
+      "time" : {
+        "start" : 1607927322037,
+        "stop" : 1607927331772,
+        "duration" : 9735
+      }
+    }, {
+      "uid" : "becace0803ec30e1",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid session id",
+      "time" : {
+        "start" : 1607927314852,
+        "stop" : 1607927335166,
+        "duration" : 20314
+      }
+    }, {
+      "uid" : "49342551a690ee8b",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid session id",
+      "time" : {
+        "start" : 1607927220015,
+        "stop" : 1607927239652,
+        "duration" : 19637
+      }
+    }, {
+      "uid" : "e58439d581dc5e5e",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=87.0.4280.66)\n                  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Linux 5.4.0-53-generic x86_64)",
+      "time" : {
+        "start" : 1607927205613,
+        "stop" : 1607927210328,
+        "duration" : 4715
+      }
+    }, {
+      "uid" : "e12fbc2da72e6ac0",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid session id",
+      "time" : {
+        "start" : 1607927164090,
+        "stop" : 1607927183378,
+        "duration" : 19288
+      }
+    }, {
+      "uid" : "7be5811885a6656c",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Sign in – Google accounts' to be 'Zepplin'.",
+      "time" : {
+        "start" : 1607927121811,
+        "stop" : 1607927141949,
+        "duration" : 20138
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a48fb923620352b3.json",
+  "parameterValues" : [ ]
+}

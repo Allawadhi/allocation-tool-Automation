@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607082860263' stop='1607082966516'>
+    <name>Testing the Allocation Tool -- New Prospect</name>
+    <title>Testing the Allocation Tool -- New Prospect</title>
+    <test-cases>
+        <test-case start='1607082894311' status='passed' stop='1607082907376'>
+            <name>Creating the Prospect using the Mandatory elements only</name>
+            <title>Creating the Prospect using the Mandatory elements only</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6a8b76e3-066c-4859-bfb5-219c6396047d-attachment.png' type='image/png' size='71289'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082907377' status='passed' stop='1607082931890'>
+            <name>Creating the Prospect using the Mandatory elements only With Team member</name>
+            <title>Creating the Prospect using the Mandatory elements only With Team member</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='73a750dc-aeee-4ded-a144-3329da25c49a-attachment.png' type='image/png' size='71287'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082931890' status='passed' stop='1607082957759'>
+            <name>Creating the Prospect using the Mandatory elements only With multiple Team members</name>
+            <title>Creating the Prospect using the Mandatory elements only With multiple Team members</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2d6c0dd7-6840-4abf-96b6-568744e5f6fd-attachment.png' type='image/png' size='71214'/>
+            </attachments>
+        </test-case>
+        <test-case start='1607082957759' status='passed' stop='1607082966515'>
+            <name>Testing the Prospect page--> Accordion should be clickable</name>
+            <title>Testing the Prospect page--> Accordion should be clickable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='faa855bb-173c-408c-8fda-928e8add5e1c-attachment.png' type='image/png' size='66627'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

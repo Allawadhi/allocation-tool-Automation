@@ -1,0 +1,50 @@
+{
+    "testsiteurl":"http://dev.zeppl.in/",
+
+    "LoginintoZepplin":     {
+
+        "LoginButton": "Login to Explore Zepplin", 
+        "username": "identifierId" ,
+        "usernamevalue": "saurabh.allawadhi@quovantis.com" ,
+        "nextButton": "//span[text()='Next']/..",
+        "password": "password",
+        "passwordvalue": "qvt_2809"
+
+    },
+
+    "AllocationModule" :{
+    "PD":{
+        "PDTab":"(//div [contains (text(),'People')])",
+        "QuantsName":"//span [ contains (text(), ' AAAAAAA Allawad') ]", 
+        "QuantsManager":"//span [ contains (text(), ' Saurabh Allawa') ]",
+        "QuantsTitle": "//div [ contains (text(), ' Office Admin') ]",
+        "AddProject":"//span [starts-with(text(),'Add Project') ]",
+        "ProjectPopup":"//span [contains(text(),'Zepplin')]",
+        "ProjectName":"Zepplin", 
+        "ProjectBox":"//input [(@placeholder='Project?')]",
+        "ProjectAllocation":"//label [contains (text(),'% Of Allocation')]/../p-dropdown",
+        "ProjectAllocationvalue":"//span[text()='75%']",
+        "ProjectBilling":"//label [contains (text(),'Billing Status')]/../p-dropdown",
+        "ProjectBillingvalue":"//span[text()='Yes']",
+        "AllocationStartDate":"//label[text()='Allocation Start Date']/..//input",
+        "AllocationValue":"//label[text()='Allocation Start Date']/..//input[@placeholder]",
+        "AllocationtillDate":"//label[text()='Allocation till']/..//input",
+        "UpdateButton":"Update"
+       
+        
+
+
+
+        
+    
+    },
+    "Prospect":{
+        "ProspectTab": " //div [contains (text(),'Prospects')]"
+
+    },
+    "Hiring":{
+        "HiringTab": "//div [contains (text(),'Hiring')]"
+    }
+}
+
+}

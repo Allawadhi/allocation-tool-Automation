@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607931545990' stop='1607931566749'>
+    <name>Login in Zepplin Test</name>
+    <title>Login in Zepplin Test</title>
+    <test-cases>
+        <test-case start='1607931545991' status='passed' stop='1607931566747'>
+            <name>Login as Saurabh</name>
+            <title>Login as Saurabh</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c6cef098-9779-4148-9de9-1e840fb4ec4e-attachment.png' type='image/png' size='51053'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
